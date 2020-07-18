@@ -1,16 +1,14 @@
-### Hi there 👋
+## Who am I
 
-<!--
-**ikasam/ikasam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Serverside Web Developer 
+- Working on: [Yumemi Inc.](https://github.com/yumemi-inc)
 
-Here are some ideas to get you started:
+## I'm good at
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- PHP/Laravel
+- Docker
+- AWS
+
+## Blogs
+- [Blog: ikasama orver technology](https://ikasamak503.hatenablog.com/)
+- [Qiita: ikasama](https://qiita.com/ikasama)
