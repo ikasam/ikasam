@@ -12,3 +12,4 @@
 ## Blogs
 - [Blog: ikasama orver technology](https://ikasamak503.hatenablog.com/)
 - [Qiita: ikasama](https://qiita.com/ikasama)
+- [Zenn: ikasama](https://zenn.dev/ikasama)
